@@ -1,0 +1,3 @@
+# fflazy bindings to ffmpeg APIs
+These bindings use bindgen. Docs coming later...
+
